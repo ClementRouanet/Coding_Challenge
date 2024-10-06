@@ -7,7 +7,8 @@
 - Installation des dépendances : pip3 install -r requirements.txt
 - Lancement de l'application : python3 main.py
 
-## Lancement quotidien du job :
+## Lancement quotidien du job
+
     - Utilisation de cron
     - Commande Bash : crontab -e
     - Ajouter la ligne suivate au fichier : mm hh * * * python3 /path/to/main.py
