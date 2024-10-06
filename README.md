@@ -9,6 +9,6 @@
 
 ## Lancement quotidien du job
 
-    - Utilisation de cron
-    - Commande Bash : crontab -e
-    - Ajouter la ligne suivate au fichier : mm hh * * * python3 /path/to/main.py
+- Utilisation de cron
+- Commande Bash : crontab -e
+- Ajouter la ligne suivate au fichier : mm hh * * * python3 /path/to/main.py
