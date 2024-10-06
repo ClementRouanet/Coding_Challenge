@@ -1,0 +1,221 @@
+{
+    "node": null,
+    "children": [
+        {
+            "node": {
+                "id": 17,
+                "name": "Lucca France",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/17"
+            },
+            "children": [
+                {
+                    "node": {
+                        "id": 14,
+                        "name": "Administration",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/14"
+                    },
+                    "children": [
+                        {
+                            "node": {
+                                "id": 8,
+                                "name": "Comptabilité / Finances",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/8"
+                            },
+                            "children": []
+                        },
+                        {
+                            "node": {
+                                "id": 11,
+                                "name": "Secrétariat",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/11"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "id": 13,
+                        "name": "Direction commerciale",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/13"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 12,
+                        "name": "Consulting",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/12"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 6,
+                        "name": "SAV",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/6"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 7,
+                        "name": "Production",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/7"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "node": {
+                "id": 18,
+                "name": "Lucca UK",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/18"
+            },
+            "children": [
+                {
+                    "node": {
+                        "id": 10,
+                        "name": "Sales",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/10"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 9,
+                        "name": "Help desk",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/9"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "node": {
+                "id": 19,
+                "name": "Lucca Espana",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/19"
+            },
+            "children": [
+                {
+                    "node": {
+                        "id": 20,
+                        "name": "Dirección general",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/20"
+                    },
+                    "children": [
+                        {
+                            "node": {
+                                "id": 21,
+                                "name": "Contabilidad",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/21"
+                            },
+                            "children": []
+                        },
+                        {
+                            "node": {
+                                "id": 22,
+                                "name": "Gestión",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/22"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "id": 23,
+                        "name": "Dirección comercial",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/23"
+                    },
+                    "children": [
+                        {
+                            "node": {
+                                "id": 24,
+                                "name": "Marketing",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/24"
+                            },
+                            "children": []
+                        },
+                        {
+                            "node": {
+                                "id": 25,
+                                "name": "Prospección y Comercial",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/25"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "id": 26,
+                        "name": "Producción",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/26"
+                    },
+                    "children": [
+                        {
+                            "node": {
+                                "id": 27,
+                                "name": "I+D",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/27"
+                            },
+                            "children": []
+                        },
+                        {
+                            "node": {
+                                "id": 28,
+                                "name": "SPV",
+                                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/28"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "node": {
+                "id": 29,
+                "name": "Lucca Switzerland",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/29"
+            },
+            "children": [
+                {
+                    "node": {
+                        "id": 30,
+                        "name": "General Management",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/30"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 31,
+                        "name": "Sales & Marketing",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/31"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 33,
+                        "name": "Customer Success",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/33"
+                    },
+                    "children": []
+                },
+                {
+                    "node": {
+                        "id": 34,
+                        "name": "IT Support",
+                        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/34"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
